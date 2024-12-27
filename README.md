@@ -67,7 +67,7 @@ Este projeto implementa um rastreador APRS (Automatic Packet Reporting System) u
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto é distribuído sob a licença GPL. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
 
