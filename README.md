@@ -33,6 +33,7 @@ Este projeto implementa um rastreador APRS (Automatic Packet Reporting System) u
    - **Depuração TX**: GPIO 1
    - **PTT**: GPIO 33
    - **Saída de aúdio**: GPIO 26
+   - Aguarde que colocarei o esquema do filtro de áudio e do PTT. 
 
 3. **Access Point Padrão**:
    - SSID: `APRS`
