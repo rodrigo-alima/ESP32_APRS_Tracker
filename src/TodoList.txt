@@ -1,0 +1,4 @@
+
+2 - Acrescentar o desligamento automático caso não haja conexão ao servidor depois de um tempo
+    (seguir exemplo do Gemini)
+3 - Acrescentar função que impede a transmissão caso haja alguém transmitindo
